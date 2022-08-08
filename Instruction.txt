@@ -1,0 +1,41 @@
+Create a data file of your class in an excel sheet with the following variables:
+I Student Number
+I Gender
+I Age
+I Favorite Subject (limit our answer to Math, Science, and English)
+I Favorite Color (limit your answer in red, blue, yellow, green)
+I Height in cm
+I Weight in kilograms
+I Grade in General Math (in SHS)
+I Grade in Statistics and Probability (in SHS)
+I Grade in Earth Science (in SHS)
+I Grade in Media and Information Literacy (in SHS)
+Note: Make sure that the whole class have the same data file. I suggest that only one person will collect the data
+and provide the data file for the whole class. A minimum of 20 observations is required.
+
+Out of the data file create the following:
+1. Data Frame with all the variables in the excel file. (3 points)
+2. Create subsets out of data frame in number 1 with the following conditions:
+2.1 All male who like color red and at least 21 years old. (3 points)
+2.2 All male who like color blue and at most 60 kilos. (3 points)
+2.3 All female who like color yellow and more than 150 cm. (3 points)
+2.4 All female who like Math subject and color green. (3 points)
+2.5 All students who like Math and the grade in Gen Math and Statistics and
+Probability is greater than 95. (3 points)
+2.6 All students who like Science and the grade in Physical Science is greater than
+95. (3 points)
+2.7 All students who like English and the grade in Media and Information Literacy is
+greater than 95. (3 points)
+
+3. Create a matrix with values 1 - 20 by column,with row names - ”Red”, ”Blue”,
+”Yellow” and ”Green”, and column names - ”A”, ”B”, ”C”, ”D”, and ”E”.
+(5 points)
+4. Extract the columns for ”A”, ”C”, and ”D”. (2 points)
+5. Extract the rows for ”Blue” and ”Yellow”. (2 points)
+6. Create a list with a sequence of numbers with 40 elements between 1-20
+inclusive, and a factor of your 5 favorite artists. (5 points)
+These are the files that you have to attach in Google Classroom for this assessment:
+I The excel file
+I Script file of your codes
+I One PDF file for the screenshot of outputs in the console for every item.
+(1 point each for every correct output)
